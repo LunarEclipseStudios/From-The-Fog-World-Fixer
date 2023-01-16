@@ -2,7 +2,10 @@
 A simple tool that will revert changes From The Fog makes to your Minecraft world!
 
 # Usage
+## Use Our Website
+Don't feel like running it locally? Use the tool right on our [website](https://www.lunareclipse.studio/creations/from-the-fog#fix-tool).
 
+## Running Locally
 ![GitHub release](https://img.shields.io/github/v/release/LunarEclipseStudios/From-The-Fog-World-Fixer)
 
 1. Download a release from our [GitHub releases](https://github.com/LunarEclipseStudios/From-The-Fog-World-Fixer/releases) page and unzip it.
