@@ -29,6 +29,7 @@ console.log = logger.info.bind(logger);
 console.error = logger.error.bind(logger);
 console.warn = logger.warn.bind(logger);
 
+  // Check for specified values and remove them
 nbt.parse(file, (error, data) => {
   if (error) throw error;
 
