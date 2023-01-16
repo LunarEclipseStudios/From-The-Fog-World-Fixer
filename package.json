@@ -1,0 +1,17 @@
+{
+  "name": "from-the-fog-world-fixer",
+  "version": "1.0.0",
+  "description": "A simple tool that will revert changes From The Fog makes to your Minecraft world!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bret06",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "nbt": "^0.8.1",
+    "winston": "^3.8.2",
+    "zlib": "^1.0.5"
+  }
+}
