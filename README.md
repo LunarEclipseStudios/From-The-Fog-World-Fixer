@@ -9,7 +9,7 @@ Don't feel like running it locally? Use the tool right on our [website](https://
 ![GitHub release](https://img.shields.io/github/v/release/LunarEclipseStudios/From-The-Fog-World-Fixer)
 
 1. Download a release from our [GitHub releases](https://github.com/LunarEclipseStudios/From-The-Fog-World-Fixer/releases) page and unzip it.
-2. Remove the **From The Fog** datapack from your world.
+2. Remove the **From The Fog** datapack from your save.
 3. Place your level.dat in the **world** folder. (level.dat can be found in .minecraft/saves/your_world)
 4. Run **start.bat**.
 5. Copy and paste the level.dat from the **world** folder back to your save.
