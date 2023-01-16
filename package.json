@@ -4,7 +4,7 @@
   "description": "A simple tool that will revert changes From The Fog makes to your Minecraft world!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npm install && node index.js && pause"
   },
   "author": "Bret06",
   "license": "ISC",
