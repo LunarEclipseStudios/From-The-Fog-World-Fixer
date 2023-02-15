@@ -1,11 +1,11 @@
-# From The Fog World Fixer
+# **From The Fog World Fixer**
 A simple tool that will revert changes From The Fog makes to your Minecraft world!
 
-# Usage
-## Use Our Website
+# **Usage**
+## **Use Our Website**
 Don't feel like running it locally? Use the tool right on our [website](https://www.lunareclipse.studio/creations/from-the-fog#fix-tool).
 
-## Running Locally
+## **Running Locally**
 ![GitHub release](https://img.shields.io/github/v/release/LunarEclipseStudios/From-The-Fog-World-Fixer)
 
 1. Download a release from our [GitHub releases](https://github.com/LunarEclipseStudios/From-The-Fog-World-Fixer/releases) page and unzip it.
@@ -16,7 +16,7 @@ Don't feel like running it locally? Use the tool right on our [website](https://
 
 ---
 
-## Community
+## **Community**
 [![Discord chat](https://img.shields.io/badge/chat%20on-discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/RmMtqxJJgH)
 
 We have an [official Discord community.](https://discord.lunareclipse.studio) By joining, you can:
@@ -26,7 +26,13 @@ We have an [official Discord community.](https://discord.lunareclipse.studio) By
 
 ---
 
-## Website
+## **License**
+
+This project is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. Feel free to use and modify the mod/datapack as you see fit, as long as you give credit to the original authors, do not use it for commercial purposes, and share any modifications under the same license. See the [LICENSE](https://github.com/LunarEclipseStudios/From-The-Fog-World-Fixer/blob/main/LICENSE.md) file for more details.
+
+---
+
+## **Website**
 Feel free to check out our website!
 https://lunareclipse.studio
 
